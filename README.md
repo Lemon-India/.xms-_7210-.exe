@@ -1,4 +1,5 @@
-# .xms-_7210-.exe
+# .xms-_7210-.exe (Formally Xm Future ) game.
+
 This is the year 2062,
 humanity is enslaved by an alien race for more than two decades already.
 
@@ -12,4 +13,5 @@ play online:
 https://xms7210exe.xmshind.repl.co/
 
 download:
-https://drive.google.com/file/d/1KS_4I75TL6eTrZ59KyYPpkjcOdcTAgcb/view
+https://drive.google.com/file/d/1-eJU4nH1Z_Es6GcSsJ6lej9cWIIsTqjL/view?usp=drivesdk
+
